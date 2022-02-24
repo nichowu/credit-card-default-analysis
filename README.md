@@ -1,22 +1,10 @@
-# DSCI_573_lab4_nichowu
+# Credit Card Default Analysis
 
-DSCI 573 lab4 for Nicholas Wu (nichowu)
+A Mini Project using Logistic Regression on Default of Credit Card Clients Dataset
 
-## Submission Details
 
-Please enter details of your submission here...
+In this mini project, I will be working on a classification problem of predicting whether a credit card client will default or not. 
+For this problem, I will use Default of Credit Card Clients Dataset. 
 
-## Help us improve the labs
-
-The MDS program is continually looking to improve our courses, including lab questions and content. The following optional questions will not affect your grade in any way nor will they be used for anything other than program improvement:
-
-1. Approximately how many hours did you spend working or thinking about this assignment (including lab time)?
-
-#Ans:
-
-2. Were there any questions that you particularly liked or disliked?
-
-#Ans: [Questions you liked]
- 
-#Ans: [Questions you disliked]
+In this data set, there are 30,000 examples and 24 features, and the goal is to estimate whether a person will default (fail to pay) their credit card bills; this column is labeled "default.payment.next.month" in the data. The rest of the columns can be used as features. I took some ideas and compared my results with the associated research paper, which is available through the UBC library.
 
